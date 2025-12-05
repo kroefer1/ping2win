@@ -32,8 +32,8 @@ P2W is a lightweight client-server game built in Python. Players connect to a se
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/p2w.git
-cd p2w
+git clone https://github.com/kroefer1/ping2win.git
+cd ping2win
 ```
 
 2. No additional dependencies needed - uses only Python standard library
@@ -69,11 +69,6 @@ pyinstaller --onefile --name "P2W-Client" --windowed client.py
 
 4. Find your executables in the `dist/` folder
 
-Optional: Add a custom icon:
-```bash
-pyinstaller --onefile --icon=icon.ico --name "P2W-Client" --windowed client.py
-```
-
 ## Usage
 
 ### Server Setup
@@ -92,11 +87,6 @@ If hosting publicly, you'll need to forward the port on your router:
 - External Port: Your chosen port
 - Internal IP: Your server's local IP
 - Internal Port: Same as external port
-
-**Windows Port Forwarding (if running behind another machine):**
-```bash
-netsh interface portproxy add v4tov4 listenport=6969 listenaddress=0.0.0.0 connectport=6969 connectaddress=192.168.x.x
-```
 
 ### Client Usage
 
@@ -195,13 +185,13 @@ Please maintain the minimalist spirit of the project.
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.
 
 This means you can freely use, modify, and distribute this software, but any derivative works must also be open source under GPL-3.0.
 
 ## Credits
 
-Created by [Your Name/Username]
+Created by (kroefer1)[https://github.com/kroefer1]
 
 Built with Python and way too much free time.
 
