@@ -1,0 +1,26 @@
+{
+  "winners": [
+    {
+      "username": "sauce",
+      "timestamp": "2025-12-05 20:30:03",
+      "ip": "127.0.0.1",
+      "rank": 1,
+      "latency": "13.44ms"
+    },
+    {
+      "username": "jhonny",
+      "timestamp": "2025-12-05 20:41:26",
+      "ip": "127.0.0.1",
+      "rank": 2,
+      "latency": "21.59ms"
+    },
+    {
+      "username": "kroefer",
+      "timestamp": "2025-12-05 20:41:36",
+      "ip": "127.0.0.1",
+      "rank": 3,
+      "latency": "18.56ms"
+    }
+  ],
+  "total_pings": 3
+}
