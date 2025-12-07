@@ -14,7 +14,7 @@ P2W is a lightweight client-server game built in Python. Players connect to a se
 - **Rate limiting**: IP-based rate limiting (1 ping per 10 seconds) to prevent spam
 - **Latency tracking**: Measures and displays connection latency for each player
 - **Low resource usage**: Server runs on approximately 10MB of RAM
-- **Cross-platform**: Works on Windows, Linux, and macOS
+- **Cross-platform**: Works on Windows, [Linux, and macOS](#to-do)
 
 ## Screenshots
 
