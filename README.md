@@ -208,7 +208,7 @@ Built with Python and way too much free time.
 ## FAQ
 
 **Q: Why?**  
-A: Why not?
+A: I actually dont know. i was bored and got this idea of making a game where you ping servers and now its this. yeah uhh
 
 **Q: Can I host a public server?**  
 A: Yes! Just forward the port and share your IP/domain.
