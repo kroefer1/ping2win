@@ -197,13 +197,13 @@ Created by (kroefer1)[https://github.com/kroefer1]
 Built with Python and way too much free time.
 
 ## To-Do
-[ ] do something idk
-[ ] Make Linux, MacOS, Web and possibly Android versions of the Client (and a linux server)
-[ ] Allow reading more then 100 Leaderboard entries in the client.
-[ ] Anti-Botting (server)
-[X] Make a Stresstest tool
-[X] UI Tweaks
-[X] Enhance Server Security
+- [ ] do something idk
+- [ ] Make Linux, MacOS, Web and possibly Android versions of the Client (and a linux server)
+- [ ] Allow reading more then 100 Leaderboard entries in the client.
+- [ ] Anti-Botting (server)
+- [X] Make a Stresstest tool
+- [X] UI Tweaks
+- [X] Enhance Server Security
 
 ## FAQ
 
