@@ -38,10 +38,9 @@ Each player can only win once per server, and winners are stored in a persistent
 - Use administrator rights for ports <1024  
 
 **Client cannot connect**  
-- Server not running  
-- Firewall blocking connection  
-- Wrong IP/port  
-- Test with `localhost` first  
+- Server not running
+- Firewall blocking connection
+- Wrong IP/port
 
 **Rate limited**  
 - Wait 10 seconds  
@@ -50,7 +49,7 @@ Each player can only win once per server, and winners are stored in a persistent
 **Leaderboard not loading**  
 - Ensure server is running  
 - Check network connection  
-- Verify JSON file exists + valid  
+- Verify JSON file exists + valid (if you do not have access to the server's Leaderboard json, contact the server administrator)
 
 ---
 
@@ -83,9 +82,9 @@ Built with Python and way too much free time.
 ## To-Do
 
 - [ ] Make Linux, macOS, Web, and Android clients  
-- [ ] Allow more than 100 leaderboard entries  
-- [ ] Anti-botting (server)  
-- [ ] Move most of the stuff in this README into the [Wiki](https://github.com/kroefer1/ping2win/wiki)
+- [ ] Add Ability to read more then 100 Leaderboard Entries (the json file can store over 100 entries but the client is capped at 100 entries, and i wanna change that)
+- [ ] Anti-botting (server)
+- [X] Move most of the stuff in this README into the [Wiki](https://github.com/kroefer1/ping2win/wiki)
 - [X] Stress test tool  
 - [X] UI tweaks  
 - [X] Improved server security  
