@@ -249,7 +249,7 @@ Built with Python and way too much free time.
 - [ ] Make Linux, macOS, Web, and Android clients  
 - [ ] Allow more than 100 leaderboard entries  
 - [ ] Anti-botting (server)  
-- [ ] Do something (placeholder)  
+- [ ] Move most of the stuff in this README into the [Wiki](https://github.com/kroefer1/ping2win/wiki)
 - [X] Stress test tool  
 - [X] UI tweaks  
 - [X] Improved server security  
