@@ -80,7 +80,7 @@ Built with Python and way too much free time.
 ---
 
 ## To-Do
-
+- [ ] Add a Serverlist
 - [ ] Make Linux, macOS, Web, and Android clients  
 - [ ] Add Ability to read more then 100 Leaderboard Entries (the json file can store over 100 entries but the client is capped at 100 entries, and i wanna change that)
 - [ ] Anti-botting (server)
