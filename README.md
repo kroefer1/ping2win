@@ -21,7 +21,7 @@ The first person to successfully ping wins. That's literally the whole game.
 13. [To-Do](#to-do)  
 14. [FAQ](#faq)  
 15. [Support](#support)
-> NOTE: This README.md may contain outdated information, i tried to update it as good as possible since i dont have much time (i have a life) and my english writing isnt that good.
+> NOTE: This README.md may contain outdated information, i tried to update it as good as possible since i dont have much time (i have a life) and my english writing isnt that good. Most of this stuff will be moved to Wiki to keep the readme minimal and understandable.
 ---
 
 ## Overview
