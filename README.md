@@ -25,6 +25,7 @@ P2W is a lightweight client-server game built in Python. Players connect to a se
 - Python 3.7 or higher
 - tkinter (usually included with Python)
 - Standard library modules: socket, json, threading, time
+> NOTE: You only need Windows and electricity if you are using the Compiled .exe File from releases.
 
 ## Installation
 
@@ -195,15 +196,14 @@ Created by (kroefer1)[https://github.com/kroefer1]
 
 Built with Python and way too much free time.
 
-## Roadmap
-
-Potential future features:
-- Web-based client interface
-- Multiple game modes
-- Achievement system
-- Team-based gameplay
-- Docker containerization
-- REST API for server stats
+## To-Do
+[ ] 
+[ ] Make Linux, MacOS, Web and possibly Android versions of the Client (and a linux server)
+[ ] Allow reading more then 100 Leaderboard entries in the client.
+[ ] Anti-Botting (server)
+[X] Make a Stresstest tool
+[X] UI Tweaks
+[X] Enhance Server Security
 
 ## FAQ
 
@@ -214,13 +214,13 @@ A: Why not?
 A: Yes! Just forward the port and share your IP/domain.
 
 **Q: How many players can the server handle?**  
-A: Theoretically thousands, though it hasn't been stress-tested at scale.
+A: ~~Theoretically thousands, though it hasn't been stress-tested at scale.~~ I have stresstested the server and theoretically? around 50k, the only thing stopping me was doing everything from the same computer, but if its multiple users on different ips and etc it should handle a lot.
 
 **Q: Can I modify the game?**  
-A: Absolutely! Just follow the GPL-3.0 license terms.
+A: Sure! Just follow the GPL-3.0 license terms.
 
 **Q: Will you add [feature]?**  
-A: Maybe! Open an issue or submit a PR.
+A: It is Very likely ill add your feature if you Open an issue or submit a PR.
 
 ## Support
 
